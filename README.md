@@ -132,12 +132,12 @@ The project followed a systematic approach:
 * Customer_Segmentation_Dashboard.pbix # Power BI dashboard file
 * README.md                       # This file
 
-## Run the Analysis:**
+## Run the Analysis:
     * Open `Customer_Segmentation_Analysis.ipynb` in Jupyter Notebook or Google Colab.
     * Ensure the dataset `Online_Retail_Dataset.xlsx` is in the correct path or update the path in the notebook.
     * Execute the cells sequentially to reproduce the analysis.
 
-## View the Dashboard:**
+## View the Dashboard:
     * Open `Customer_Segmentation_Dashboard.pbix` using Microsoft Power BI Desktop.
     * The dashboard is designed to use `RFMT_CFMT_Clusters.xlsx` as its data source. Ensure Power BI can access this file, or update the data source path within Power BI if needed.
 
@@ -170,4 +170,4 @@ This project successfully segments customers into three distinct groups using a 
 
 * **Name:** [Engy Saeed]
 * **Email:** `engysead498@gmail.com`
-* **LinkedIn:** `https://www.linkedin.com/in/engy-saeed-b47784276?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bh4ZG9v%2BhTR2sN8YzYBFy6Q%3D%3D`
+* **LinkedIn:** [https://www.linkedin.com/in/engy-saeed-b47784276](https://www.linkedin.com/in/engy-saeed-b47784276)
