@@ -127,7 +127,7 @@ The project followed a systematic approach:
 ## Project Structure
 .
 * Online_Retail_Dataset.xlsx    # The original dataset file (or specific name used)
-* Customer_Segmentation_Analysis.ipynb # Jupyter Notebook with all analysis steps
+* Customer_Segmentation_Analysis.ipynb # Colab Notebook with all analysis steps
 * RFMT_CFMT_Clusters.xlsx       # Processed data with RFMT, CFMT scores and cluster labels
 * Customer_Segmentation_Dashboard.pbix # Power BI dashboard file
 * README.md                       # This file
