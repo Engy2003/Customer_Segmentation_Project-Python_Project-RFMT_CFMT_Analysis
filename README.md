@@ -1,4 +1,4 @@
-# Customer Segmentation using Advanced RFM & CFMT Analysis on Online Retail Data
+# Customer Segmentation using Advanced RFMT & CFMT Analysis on Online Retail Data
 
 ## Project Overview
 
