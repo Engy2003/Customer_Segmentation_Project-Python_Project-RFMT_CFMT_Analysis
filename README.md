@@ -168,5 +168,5 @@ This project successfully segments customers into three distinct groups using a 
 ## Author & Contact
 
 * **Name:** [Engy Saeed]
-* **Email:** [engysead498@gmail.com](engysead498@gmail.com)
+* **Email:** [engysead498@gmail.com](mailto:engysead498@gmail.com)
 * **LinkedIn:** [https://www.linkedin.com/in/engy-saeed-b47784276](https://www.linkedin.com/in/engy-saeed-b47784276)
