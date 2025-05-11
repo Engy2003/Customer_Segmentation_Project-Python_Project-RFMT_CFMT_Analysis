@@ -125,7 +125,6 @@ The project followed a systematic approach:
 * **Environment:** Google Colab / Jupyter Notebook.
 
 ## Project Structure
-.
 * Online_Retail_Dataset.xlsx    # The original dataset file (Dataset not uploaded due to size so download link provided above)
 * Customer_Segmentation_Analysis.ipynb # Colab Notebook with all analysis steps
 * RFMT_CFMT_Clusters.xlsx       # Processed data with RFMT, CFMT scores and cluster labels
