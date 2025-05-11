@@ -109,7 +109,7 @@ The project followed a systematic approach:
 8.  **Visualization & Dashboarding:**
     * Principal Component Analysis (PCA) was used to visualize cluster separation in 2D.
     * Heatmaps were likely used to examine feature distributions across clusters.
-    * The final clustered data (`RFMT_CFMT_Clusters.xlsx`) was prepared for Power BI.
+    * The final clustered data (`RFMT_CFMT.xlsx`) was prepared for Power BI.
         * NaN values in `CFrequency` and `CMonetary` (for customers with no cancellations) were replaced with 0.
     * A Power BI dashboard was developed to interactively explore the clusters.
 
@@ -127,7 +127,7 @@ The project followed a systematic approach:
 ## Project Structure
 * Online_Retail_Dataset.xlsx    # The original dataset file (Dataset not uploaded due to size so download link provided above)
 * Customer_Segmentation_Analysis.ipynb # Colab Notebook with all analysis steps
-* RFMT_CFMT_Clusters.xlsx       # Processed data with RFMT, CFMT scores and cluster labels
+* RFMT_CFMT.xlsx       # Processed data with RFMT, CFMT scores and cluster labels
 * Customer_Segmentation_Dashboard.pbix # Power BI dashboard file
 * README.md                       # This file
 
@@ -138,7 +138,7 @@ The project followed a systematic approach:
 
 ## View the Dashboard:
     * Open `Customer_Segmentation_Dashboard.pbix` using Microsoft Power BI Desktop.
-    * The dashboard is designed to use `RFMT_CFMT_Clusters.xlsx` as its data source. Ensure Power BI can access this file, or update the data source path within Power BI if needed.
+    * The dashboard is designed to use `RFMT_CFMT.xlsx` as its data source. Ensure Power BI can access this file, or update the data source path within Power BI if needed.
 
 ## Power BI Dashboard Highlights
 
